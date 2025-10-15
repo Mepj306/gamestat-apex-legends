@@ -1,0 +1,5 @@
+List of required packages for this project.
+These packages are needed for database ORM, PostgreSQL connection, and secure variable loading.
+sqlalchemy
+psycopg2-binary
+python-dotenv
