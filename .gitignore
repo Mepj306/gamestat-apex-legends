@@ -1,0 +1,7 @@
+venv/
+.env
+pycache/
+*.pyc
+*.sqlite
+logs/
+Thumbs.db
