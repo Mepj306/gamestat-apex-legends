@@ -18,7 +18,7 @@ class StatEntry(Base):
     platform = Column(String, nullable = False)
 
     total_kills = Column(Integer, default = 0)
-    damange_done = Column(String, nullable = False)
+    damage_done = Column(String, nullable = False)
     level = Column(Integer, default = 0)
 
     recorded_at = Column(Integer, default = 0)
