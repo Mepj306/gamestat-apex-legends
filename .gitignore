@@ -5,3 +5,5 @@ pycache/
 *.sqlite
 logs/
 Thumbs.db
+.vscode
+.vscode/settings.json
